@@ -248,13 +248,13 @@ p {
     grid-area: 4 / 3 / 5 / 5;
 }
 
-.technological-skills-container p:nth-child(9) {
+/* .technological-skills-container p:nth-child(9) {
     grid-area: 5 / 1 / 6 / 5;
 }
 
 .technological-skills-container p:nth-child(10) {
     grid-area: 6 / 3 / 7 / 5;
-}
+} */
 
 /* Projects CSS */
 .projects-content {
